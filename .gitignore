@@ -2,4 +2,5 @@ node_modules
 .bsp
 .metals
 .scala-build
-direnv
+.direnv
+.devenv
